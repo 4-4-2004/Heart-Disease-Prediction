@@ -192,6 +192,40 @@ The models were evaluated using:
 
 #### 
 
+
+## 📈 Visualizations
+
+### Target Distribution
+
+![Target Distribution](images/target_distribution.png)
+
+---
+
+### Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix_rf.png)
+
+---
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
+---
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+
+
+
 #### &#x20;🏆 Results
 
 
